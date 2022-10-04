@@ -5,8 +5,8 @@
 ### SSM框架学习
 
 - [Mybatis学习](SSM框架学习/Mybatis/README.md)
-- [Spring学习](SSM框架/Spring/README.md)
-- [SpringMVC学习](SSM框架/SpringMVC/README.md)
+- [Spring学习](SSM框架学习/Spring/README.md)
+- [SpringMVC学习](SSM框架学习/SpringMVC/README.md)
 
 ### Maven高级
 
